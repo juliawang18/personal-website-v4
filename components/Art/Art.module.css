@@ -1,0 +1,38 @@
+.container {
+    position: relative;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #d1e51ecf;
+    color: #000;
+    padding: 2em;
+}
+
+.container:hover .overlay {
+    opacity: 1;
+}
+
+.image {
+    aspect-ratio: unset;
+}
+
+.wraper {
+    display: flex;
+    flex-direction: column;
+}
+
+.description {
+    font-weight: bold;
+}

@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "type": "image",
+            "image": "/imgs/name.png",
+            "text": "My name!",
+            "link": null
+        },
+        {
+            "type": "image",
+            "image": "/imgs/wormhole.png",
+            "text": "Explore my past lives ↗",
+            "link": "/past"
+        },
+        {
+            "type": "image",
+            "image": "/imgs/me.png",
+            "text": "It's me :)",
+            "link": null
+        },
+        {
+            "type": "image",
+            "image": "/imgs/art.png",
+            "text": "My favorite kind of art...",
+            "link": null
+        },
+        {
+            "type": "image",
+            "image": "/imgs/spotify.png",
+            "text": "My favorite tunes to listen to when I'm alone.",
+            "link": "https://open.spotify.com/playlist/3u5fFHuqqI8Ud5ImtVLbU8?si=61e81777256b481e"
+        },
+        {
+            "type": "image",
+            "image": "/imgs/personal-art.jpg",
+            "text": "Check out my own art ↗",
+            "link": "/art"
+        },
+        {
+            "type": "image",
+            "image": "/imgs/paper.png",
+            "text": "See my publications ↗",
+            "link": "/publications"
+        },
+        {
+            "type": "image",
+            "image": "/imgs/frog.jpg",
+            "text": "Tinkering and building... ↗",
+            "link": "https://medium.com/@amazingshiba18"
+        },
+        {
+            "type": "text",
+            "image": null,
+            "text": "👀",
+            "link": "/universe"
+        }
+    ]
+}

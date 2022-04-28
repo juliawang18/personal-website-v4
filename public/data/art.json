@@ -1,0 +1,89 @@
+{
+    "works": [
+        {
+            "description": "Sakura",
+            "link": "/imgs/personal-art/cherry_blossoms.jpg",
+            "medium": "2020, Procreate"
+        },
+        {
+            "description": "Chinese New Year feast",
+            "link": "/imgs/personal-art/cny.jpg",
+            "medium": "2020, Procreate"
+        },
+        {
+            "description": "Cows grazing in the field",
+            "link": "/imgs/personal-art/cows.jpg",
+            "medium": "2020, Procreate"
+        },
+        {
+            "description": "Portrait",
+            "link": "/imgs/personal-art/felix.jpg",
+            "medium": "2020, Procreate"
+        },
+        {
+            "description": "Fig study",
+            "link": "/imgs/personal-art/fig.jpg",
+            "medium": "2020, Procreate"
+        },
+        {
+            "description": "My first Adobe Illustrator art!",
+            "link": "/imgs/personal-art/koi.png",
+            "medium": "2020, Illustrator"
+        },
+        {
+            "description": "Jujutsu Kaisen",
+            "link": "/imgs/personal-art/jjk.jpg",
+            "medium": "2020, Procreate"
+        },
+        {
+            "description": "Landscape",
+            "link": "/imgs/personal-art/landscape_chinese.jpg",
+            "medium": "2020, Procreate"
+        },
+        {
+            "description": "Rina Sawayama",
+            "link": "/imgs/personal-art/rina.jpg",
+            "medium": "2020, Procreate"
+        },
+        {
+            "description": "Rengoku",
+            "link": "/imgs/personal-art/rengoku.jpg",
+            "medium": "2020, Procreate"
+        },
+        {
+            "description": "Raveena",
+            "link": "/imgs/personal-art/raveena.jpg",
+            "medium": "2020, Procreate"
+        },
+        {
+            "description": "Lion",
+            "link": "/imgs/personal-art/lion.jpg",
+            "medium": "2018, Etched on scratch paper"
+        },
+        {
+            "description": "Made of ink",
+            "link": "/imgs/personal-art/octopus.jpg",
+            "medium": "2018, Pen ink on paper"
+        },
+        {
+            "description": "Raspberries",
+            "link": "/imgs/personal-art/raspberry.jpg",
+            "medium": "2018, Colored pencils on paper"
+        },
+        {
+            "description": "Chinese American sauces",
+            "link": "/imgs/personal-art/sauces.jpg",
+            "medium": "2018, Watercolor on paper"
+        },
+        {
+            "description": "Amalfi Coast in Province of Salerno, Italy",
+            "link": "/imgs/personal-art/almalfi.jpg",
+            "medium": "2017, Oil on canvas"
+        },
+        {
+            "description": "Mountain landscape",
+            "link": "/imgs/personal-art/mountain_landscape.jpg",
+            "medium": "2015, Oil on canvas"
+        }
+    ]
+}

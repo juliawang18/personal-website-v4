@@ -1,0 +1,88 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  overflow-x: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+p {
+  font-family: Inter;
+  font-size: 0.88em;
+  line-height: 1.8em;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  font-family: Inter;
+  font-size: 0.88em;
+  line-height: 1.8em;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: block;
+  aspect-ratio: 1;
+}
+
+a {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  color: rgb(100, 100, 100);
+}
+
+a:hover {
+  color: #000;
+}
+
+@font-face {
+  font-family: Inter;
+  src: url("../public/fonts/Inter/Inter-VariableFont.ttf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Inter;
+  src: url("../public/fonts/Inter/Inter-VariableFont_Italic.ttf");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: Inter;
+  src: url("../public/fonts/Inter/Inter-Bold.ttf");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Bradford LL;
+  src: url("../public/fonts/Bradford LL/BradfordLL-LightItalic.otf");
+  font-weight: light;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: Bradford LL;
+  src: url("../public/fonts/Bradford LL/BradfordLL-Light.otf");
+  font-weight: light;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: Bradford LL;
+  src: url("../public/fonts/Bradford LL/BradfordLL-Regular.otf");
+  font-weight: normal;
+  font-style: normal;
+}
